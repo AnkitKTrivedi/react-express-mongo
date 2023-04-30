@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-express-mongo/static/css/main.fcacdcc3.css",
+    "main.js": "/react-express-mongo/static/js/main.d0b7b441.js",
+    "static/js/787.18b24cf6.chunk.js": "/react-express-mongo/static/js/787.18b24cf6.chunk.js",
+    "index.html": "/react-express-mongo/index.html",
+    "main.fcacdcc3.css.map": "/react-express-mongo/static/css/main.fcacdcc3.css.map",
+    "main.d0b7b441.js.map": "/react-express-mongo/static/js/main.d0b7b441.js.map",
+    "787.18b24cf6.chunk.js.map": "/react-express-mongo/static/js/787.18b24cf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcacdcc3.css",
+    "static/js/main.d0b7b441.js"
+  ]
+}
